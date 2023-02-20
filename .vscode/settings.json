@@ -1,3 +1,4 @@
 {
-    "ballerina.home": "/home/shiro/Work/ballerina/ballerina-2201.3.2-swan-lake/"
+    "ballerina.home": "/home/shiro/Work/ballerina/ballerina-2201.3.2-swan-lake/",
+    "ballerina.enablePerformanceForecast": true
 }
